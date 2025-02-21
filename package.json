@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:///mahmoud-habib-hby.github.io/weather",
+  "homepage": "https://mahmoud-habib-hby.github.io/weather",
   "dependencies": {
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
